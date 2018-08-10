@@ -2,5 +2,8 @@
   publish = "public"
   command = "npm run build"
 [build.environment]
-  YARN_VERSION = "1.5.1"
+  YARN_VERSION = "1.9.2.
   YARN_FLAGS = "--no-ignore-optional"
+  NODE_VERSION = "10.6.0"
+  NPM_VERSION = "6.3.0"
+  RUBY_VERSION = "2.5.1"
